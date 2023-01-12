@@ -1,0 +1,36 @@
+
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.part{
+    text-align:center;
+    
+   padding: 20px;
+   width: 20%;
+   height: 60px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: bold;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.part:hover{
+
+    font-size: larger;
+    background-color:aliceblue ;
+    box-shadow: 5px 5px 5px gray;
+
+}
+p,li{font-size: 20px;}
+hr{
+    color: black;
+    border-color: black;
+    
+}
+
+
