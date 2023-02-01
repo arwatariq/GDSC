@@ -1,0 +1,89 @@
+*{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: aliceblue;
+}
+div{
+margin: 10%;
+    padding: 10px;
+    width: 79%;
+    background-color:aliceblue;
+    box-shadow: 5px 5px 5px gray ,-5px -5px 5px gray;
+
+}
+
+input[type=text],input[type=password],textarea,select{
+    color: black;
+width: 40%;
+border-radius: 5px;
+font-size: 16px;
+margin-top: 5px;
+border: none;
+padding: 5px;
+
+}
+option{
+    color: black;
+}
+h1{
+    text-align: center;
+    border: 2px solid blueviolet;
+    border-radius: 4px 5px;
+    color: blueviolet;
+    border-color: blueviolet;
+    padding: 5px;
+}
+form{
+
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+.label_Q{
+font-weight: bold;
+    font-size:15px;
+}
+
+tr{
+    text-align: center;
+    
+}
+td{
+    color: black;
+    background-color: antiquewhite;
+}
+th{
+    padding: 4px;
+    background-color: blueviolet;
+}
+.btn_submit{
+width: 30%;
+height: 40px;
+    border-radius: 7px;
+    border: 4px solid aliceblue;
+    background-color: blueviolet;
+    color: aliceblue;
+
+    margin-top: 30px;
+    margin-left: 35%;
+    font-size: 15px;
+    font-weight: bold; 
+    box-shadow: 0 0 5px aliceblue,0 0 25px aliceblue;
+}
+
+.btn_submit:hover{
+
+    background-color:aliceblue;
+    color:blueviolet;
+    box-shadow: 0 0 5px aliceblue,
+    0 0 25px aliceblue,0 0 50px aliceblue,
+    0 0 100px aliceblue,0 0 200px aliceblue;
+
+}
+input[type=radio]:hover{
+    background-color:aliceblue;
+    color:blueviolet;
+    box-shadow: 0 0 5px aliceblue,
+    0 0 25px aliceblue,0 0 50px aliceblue,
+    0 0 100px aliceblue,0 0 200px aliceblue;
+
+}
