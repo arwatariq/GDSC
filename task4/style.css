@@ -1,0 +1,63 @@
+
+
+.table_m{
+
+position: fixed;
+
+left: 40%;
+top: 20%;
+
+
+}
+table{
+
+ opacity: 0.3;
+ margin-top: 10%;
+ 
+}
+
+table:hover{
+    height: 120px;
+   
+    }
+
+td,th{
+    padding: 5px;
+    background-color: pink; 
+    font-size: 30px;
+    
+}
+
+h1{
+    background-color: antiquewhite;
+    width: 200px;
+    position: fixed;
+top: 5%;
+left: 46%;
+}
+/* button */
+button{
+    padding: 10px 20px;
+    background-color: pink;
+    
+}
+
+.btn1{
+
+    position: fixed;
+
+    top: 70%;
+left: 37%;
+}
+.btn2{
+    position: fixed;
+
+    top: 70%;
+    left: 66%;
+}
+
+button:hover{
+
+    background-color: bisque;
+}
+
