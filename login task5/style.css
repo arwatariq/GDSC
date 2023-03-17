@@ -1,0 +1,32 @@
+body{
+
+    background-color: #efcc07fd;;
+}
+
+.login {
+  width: 550px;
+  padding: 20px;
+  box-shadow: 5px 5px 5px #3333336b, -5px -5px 5px #3333336b;
+  background-color: aliceblue;
+  border-radius: 10px;
+  display: flex;
+  justify-content:space-evenly;
+
+  position: fixed;
+  top: 160px;
+left: 400px;
+}
+
+input{
+
+    margin-bottom: 8px;
+
+}
+
+.btn{
+
+    background-color: #efcc07fd;
+    border-radius: 5px;
+    padding: 5px 20px;
+    margin-top: 10px;
+}
